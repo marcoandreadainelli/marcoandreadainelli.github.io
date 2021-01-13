@@ -1,0 +1,30 @@
+body {
+	background-color: #2F8BD0;
+	font-family: Verdana, sans-serif;
+}
+
+#output {
+	width:600px;
+	height: 200px;
+	border: thick solid red;
+	padding:10px;
+}
+
+.button {
+	color: white;
+	background-color: green;
+	border:none;
+	outline:none;
+	padding:15px 32px;
+	font-size:1.5em;
+	font-family: Verdana, sans-serif;
+	border-radius:10px;
+	transition-duration: 0.4s;
+	margin-bottom:20px;
+
+}
+
+.button:hover{
+
+	background-color: black;
+}
